@@ -2,6 +2,8 @@ GB-Score (ET-Score v2)
 --
 A scoring function based on Gradient Boosting Trees algorithm for predicting ligand-protein binding affinity. PDBbind 2019v collection of the general and refined sets minus core set is used for training GB-Score and core set is used as an independent test set.
 
+![](https://github.com/miladrayka/GB-Score/blob/main/Capture300.JPG)
+
 Contact
 ---
 Milad Rayka, Chemistry and Chemical Engineering Research Center of Iran, milad.rayka@yahoo.com
