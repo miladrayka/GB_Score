@@ -1,0 +1,1 @@
+GB-Score can be found in figshare.
