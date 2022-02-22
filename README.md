@@ -10,7 +10,7 @@ Milad Rayka, Chemistry and Chemical Engineering Research Center of Iran, milad.r
 
 Citation
 --
-...
+[GB-Score: Minimally Designed Machine Learning Scoring Function Based on Distance-weighted Interatomic Contact Features](https://chemrxiv.org/engage/chemrxiv/article-details/6210b55ce0f5297c08b7f36a)
 
 Installation
 --
