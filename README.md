@@ -6,7 +6,7 @@ A scoring function based on Gradient Boosting Trees algorithm for predicting lig
 
 Contact
 ---
-Milad Rayka, Chemistry and Chemical Engineering Research Center of Iran, milad.rayka@yahoo.com
+Milad Rayka, milad.rayka@yahoo.com
 
 Citation
 --
